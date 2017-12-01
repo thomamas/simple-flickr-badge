@@ -1,4 +1,4 @@
-# flickr-badge
+# simple-flickr-badge
 
 Flickr badges were a simple way to include a selection of Flickr pictures on your
 web page.  I used something like
@@ -27,7 +27,7 @@ something like this in the head of your HTML document:
 
 In the body:
 
-    <script src="/js/flickr-badge.js" data-api-key='...' 
+    <script src="/js/simple-flickr-badge.js" data-api-key='...' 
         data-photoset-id='...' data-user-id='...' data-size='_m' 
         data-count='3'></script>
 
